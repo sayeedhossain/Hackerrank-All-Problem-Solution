@@ -7,6 +7,4 @@ In case of a live contest, I will make sure that I push the codes after the cont
 
 For any problem , just feel free to contact with me through my mail . 
 
-<h1>Author : </h1><br>
-<h3>Name : Sayeed Hossain</h3><br>
-<h3>Mail : sayeedhatim@gmail.com</h3>
+<h4>Any further query? just feel free to contact at (me@sayeedhossain.com)</h4>
